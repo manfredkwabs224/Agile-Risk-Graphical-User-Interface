@@ -1,0 +1,26 @@
+# Visual Studio cache
+.vs/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Build folders
+build/
+dist/
+*.spec
+
+# Temporary folders
+_TEMP_JUNK/
+agilerisk_env/
+
+# Large files we don't need to track again
+*.pkl
+*.zip
+*.vsidx
+
+# OS files
+.DS_Store
+Thumbs.db
